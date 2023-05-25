@@ -6,7 +6,7 @@ I have also added some codes from my data structures course at uni.
 
 ## Author
  Amine Trabelsi
-[Email](aminetr76@gmail.com)
+* [Email](aminetr76@gmail.com)
 
 
 ## Acknowledgments
