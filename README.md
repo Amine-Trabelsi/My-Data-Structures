@@ -4,10 +4,6 @@ I have used some interesting data structures in competitive programming. I decid
 Most of the programs are not meant to be read by humans so they will difficult to read.
 I have also added some codes from my data structures course at uni.
 
-## Author
- Amine Trabelsi
-* [Email](aminetr76@gmail.com)
-
 
 ## Acknowledgments
 
